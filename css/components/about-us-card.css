@@ -1,0 +1,14 @@
+.about-us-card { 
+	width: 600px; 
+	height: 400px; 
+	text-align: center; 
+	box-shadow: 10px 10px 10px #f4f4f4; 
+	padding: 20px; 
+	border-radius: 4px; 
+	margin: 25px; 
+}
+
+.about-us-card img {
+	width: 400px; 
+	border-radius: 4px; 
+}

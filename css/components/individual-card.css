@@ -1,0 +1,17 @@
+
+
+.individual-card { 
+	width: 300px; 
+	height: 400px; 
+	text-align: center; 
+	box-shadow: 10px 10px 10px #f4f4f4; 
+	padding: 20px; 
+	border-radius: 4px; 
+	margin: 25px; 
+}
+
+.individual-card img {
+	width: 200px; 
+	border-radius: 50%; 
+}
+

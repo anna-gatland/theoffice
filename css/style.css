@@ -1,0 +1,55 @@
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/main-container.css");
+@import url("components/all-cards.css");
+@import url("components/individual-card.css");
+@import url("components/footer.css");
+@import url("components/about-us.css");
+@import url("components/about-us-card.css");
+@import url("components/other-cards.css");
+@import url("components/nav-bar.css");
+@import url("components/typeform.css");
+
+
+
+
+
+body {
+	margin: 0; 
+}
+
+h3 { 
+	font-family: 'Roboto Mono', monospace;
+	font-size: 30px; 
+} 
+
+h6 {
+	font-family: 'Roboto Condensed', sans-serif;
+	color: #00263b; 
+	font-size: 15px; 
+}
+
+.menu { 
+	display: flex;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+@media (max-width: 500px) {
+	.card-white {
+		width: 300px; 
+	}
+}
+
+@media (max-width: 700px) {
+	.card-white {
+		width: 450px; 
+	}
+}
+
+
+
+
+
